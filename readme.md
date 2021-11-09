@@ -11,3 +11,5 @@ I created two ViewControllers because I wanted to implement this using two ways.
 ![image](images/Sample_1/FixedTableViewHeight.gif) ![image](images/Sample_1/FlexibleTableViewHeight.gif)
 
 [Left - Fixed Table View Height / Right - Flexible Table View Height]
+
+I have a plan to add same feature implementation using Storyboard.
